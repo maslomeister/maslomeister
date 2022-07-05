@@ -20,5 +20,13 @@
 <img height="32" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
+### Контакты:
+
+Телефон: [+79953799043](https://tel:+79953799043) 
+
+Telegram: [@maslomeister](https://t.me/maslomeister)
+
+Email: [maslomeister@gmail.com](https://mailto:maslomeister@gmail.com)
+
 
 [![Maslomeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslomeister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
