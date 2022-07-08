@@ -7,7 +7,7 @@
 * 🎿 Готов к переезду и удаленной работе
 * 💜 Typescript
 
-### Мои навыки:
+## Мой стэк:
 
 <p float="left">
 <img height="32" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -20,7 +20,7 @@
 <img height="32" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
-### Контакты:
+## Контакты:
 
 Телефон: [+79953799043](https://tel:+79953799043) 
 
