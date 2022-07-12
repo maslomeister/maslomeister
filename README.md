@@ -1,32 +1,44 @@
-## Привет, я Никита Маслов - Frontend разработчик🖥💻📱
+### 🙋‍♂️ I'm Nikita Maslov - Frontend Developer
 
-Ищу дружный и активный коллектив в котором под присмотром более опытных коллег смогу расти как специалист. 
+> Currently looking for internship or junior position
 
-* 🎓 Закончил курс React разработчика от Яндекс Практикума и создал проект [Stellar Burgers](https://github.com/maslomeister/react-burger)
-* 🧠 Хочу расширить свой кругозор и научиться работать с новыми инструментами и другими js фреймворками.
-* 🎿 Готов к переезду и удаленной работе
-* 💜 Typescript
+#### 💜 Typescript
 
-## Мой стэк:
+#### 🎉 Constantly learning and i love it
 
-<p float="left">
-<img height="32" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="32" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="32" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="32" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="32" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="32" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
-<img height="32" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="32" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</p>
+#### 🖥💻📱 Adaptive design is a must in modern world, not an after-thought
 
-## Контакты:
+#### 🎓 Recently finished Yandex Practicum and created Reactjs project - [Stellar Burgers](https://github.com/maslomeister/react-burger)
 
-Телефон: [+79953799043](https://tel:+79953799043) 
+## 🔮 Stack:
 
-Telegram: [@maslomeister](https://t.me/maslomeister)
+![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
+![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
+![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
+![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&color=1f1e34&label=%20)
 
-Email: [maslomeister@gmail.com](https://mailto:maslomeister@gmail.com)
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
+![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
+![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&color=1f1e34&label=%20)
+![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20)
+![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20)
 
+![Nodejs](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
+![Eslint](https://img.shields.io/static/v1?message=eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20)
+![Prettier](https://img.shields.io/static/v1?message=prettier&logo=prettier&style=for-the-badge&color=1f1e34&label=%20)
+![Docker](https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
+![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
+![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
+![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1f1e34&label=%20)
+
+## Contacts:
+
+[![Telegram](https://img.shields.io/static/v1?message=telegram&logo=telegram&style=for-the-badge&color=1f1e34&label=%20)](https://t.me/maslomeister)
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&style=for-the-badge&color=1f1e34&label=%20)](https://www.linkedin.com/in/maslomeister/)
+
+[![Email](https://img.shields.io/static/v1?message=maslomeister@gmail.com&logo=gmail&style=for-the-badge&color=1f1e34&label=%20)](mailto:maslomeister@gmail.com)
 
 [![Maslomeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslomeister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=maslomeister&label=visitors&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=maslomeister)
