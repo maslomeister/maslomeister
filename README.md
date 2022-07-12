@@ -34,9 +34,7 @@
 ## Contacts:
 
 [![Telegram](https://img.shields.io/static/v1?message=telegram&logo=telegram&style=for-the-badge&color=1f1e34&label=%20)](https://t.me/maslomeister)
-
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&style=for-the-badge&color=1f1e34&label=%20)](https://www.linkedin.com/in/maslomeister/)
-
 [![Email](https://img.shields.io/static/v1?message=maslomeister@gmail.com&logo=gmail&style=for-the-badge&color=1f1e34&label=%20)](mailto:maslomeister@gmail.com)
 
 [![Maslomeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslomeister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
