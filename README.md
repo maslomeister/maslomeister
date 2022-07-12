@@ -41,4 +41,4 @@
 
 [![Maslomeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslomeister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=maslomeister&label=visitors&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=maslomeister)
+[![👀](https://api.visitorbadge.io/api/visitors?path=maslomeister&label=visitors&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=maslomeister)
