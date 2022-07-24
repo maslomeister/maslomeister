@@ -1,6 +1,6 @@
 ### 🙋‍♂️ I'm Nikita Maslov - Frontend Developer
 
-> Currently looking for internship or junior position
+> Currently looking for internship or junior position, also open for collaboration
 
 #### 💜 Typescript
 
