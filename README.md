@@ -8,7 +8,7 @@
 
 #### 🖥💻📱 Adaptive design is a must in modern world, not an after-thought
 
-#### 🎓 Recently finished Yandex Practicum and created Reactjs project - [Stellar Burgers](https://github.com/maslomeister/react-burger)
+#### 🎓 Finished Yandex Practicum and created Reactjs project - [Stellar Burgers](https://github.com/maslomeister/react-burger)
 
 ## 🔮 Stack:
 
