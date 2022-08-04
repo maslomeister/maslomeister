@@ -2,15 +2,17 @@
 
 > Currently looking for internship or junior position, also open for collaboration
 
-#### 💜 Typescript
+#### Typescript💜
 
-#### 🎉 Constantly learning and i love it
+#### Constantly learning and i love it 🎉
 
-#### 🖥💻📱 Adaptive design is a must in modern world, not an after-thought
+#### Adaptive design is a must in modern world, not an after-thought 🖥💻📱 
 
-#### 🎓 Finished Yandex Practicum and created Reactjs project - [Stellar Burgers](https://github.com/maslomeister/react-burger)
+#### Finished Yandex Practicum and created Reactjs project 🎓  - [Stellar Burgers](https://github.com/maslomeister/react-burger)
 
-## 🔮 Stack:
+<br>
+
+### 🔮 Stack:
 
 ![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
 ![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
@@ -31,12 +33,27 @@
 ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
 ![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1f1e34&label=%20)
 
-## Contacts:
+<br>
+
+### Contact me:
 
 [![Telegram](https://img.shields.io/static/v1?message=telegram&logo=telegram&style=for-the-badge&color=1f1e34&label=%20)](https://t.me/maslomeister)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&style=for-the-badge&color=1f1e34&label=%20)](https://www.linkedin.com/in/maslomeister/)
 [![Email](https://img.shields.io/static/v1?message=maslomeister@gmail.com&logo=gmail&style=for-the-badge&color=1f1e34&label=%20)](mailto:maslomeister@gmail.com)
 
-[![Maslomeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslomeister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>
+  
+### 📈 Github stats
+</summary>
+<br>
+<p align = "center">
+  <img width="54%" src = "https://github-readme-stats.vercel.app/api?username=maslomeister&layout=compact&show_icons=true&theme=radical">
+  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maslomeister&hide=c&layout=compact&theme=radical">
+</p>
+<br>
+</details>
+
+
 
 [![👀](https://api.visitorbadge.io/api/visitors?path=maslomeister&label=👀&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=maslomeister)
