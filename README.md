@@ -32,6 +32,7 @@
 ![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
 ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
 ![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1f1e34&label=%20)
+
 <br>
 ### Contact me:
 
