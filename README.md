@@ -2,6 +2,7 @@
 
 > Currently looking for internship or junior position, also open for collaboration
 
+<ul>
 #### Typescript💜
 
 #### Graduate of Yandex Practicum React Developer course 🎓
@@ -9,6 +10,8 @@
 #### Constantly learning and i love it 🎉
 
 #### Fan of split keyboards, arduino and diy. 🛠
+  
+</ul>
 
 ### Projects:
 
