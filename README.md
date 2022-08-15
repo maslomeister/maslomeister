@@ -3,6 +3,7 @@
 > Currently looking for internship or junior position, also open for collaboration
 
 <ul>
+  
 #### Typescript💜
 
 #### Graduate of Yandex Practicum React Developer course 🎓
