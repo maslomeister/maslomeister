@@ -4,9 +4,11 @@
 
 #### Typescript💜
 
+#### Graduate of Yandex Practicum React Developer course 🎓
+
 #### Constantly learning and i love it 🎉
 
-#### Adaptive design is a must in modern world, not an after-thought 🖥💻📱 
+#### Fan of split keyboards, arduino and diy. 🛠
 
 ### Projects:
 
