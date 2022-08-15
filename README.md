@@ -2,6 +2,7 @@
 
 > Currently looking for internship or junior position, also open for collaboration
 
+A little bit about myself: 
 <ul>
   
 #### Typescript💜
