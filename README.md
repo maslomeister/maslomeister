@@ -2,6 +2,8 @@
 
 > Currently looking for internship or junior position, also open for collaboration
 
+<br>
+
 A little bit about myself: 
 <ul>
   
@@ -15,13 +17,13 @@ A little bit about myself:
   
 </ul>
 
+<br>
+
 ### Projects:
 
 #### [Stellar Burgers](https://github.com/maslomeister/react-burger)
 
 #### [Easy heatmap](https://github.com/maslomeister/easyheatmap)
-
-
 
 <br>
 
