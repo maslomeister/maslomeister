@@ -20,6 +20,7 @@ A little bit about myself:
 <br>
 
 ### Projects:
+> Projects described below are somewhat large and deserver special mention, but i also have other small projects in "pinned" section
 
 #### [Stellar Burgers](https://github.com/maslomeister/react-burger)
 
