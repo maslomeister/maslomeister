@@ -4,7 +4,8 @@
 
 <br>
 
-A little bit about myself: 
+A little bit about myself:
+
 <ul>
   
 #### Typescript💜
@@ -14,17 +15,22 @@ A little bit about myself:
 #### Constantly learning and i love it 🎉
 
 #### Fan of split keyboards, arduino and diy. 🛠
-  
+
 </ul>
 
 <br>
 
 ### Projects:
-> Projects described below are somewhat large and deserver special mention, but i also have other small projects in "pinned" section
 
-#### [Stellar Burgers](https://github.com/maslomeister/react-burger)
+> Projects below are somewhat large and deserve special mention, but i also have few small projects in "pinned" section
 
-#### [Easy heatmap](https://github.com/maslomeister/easyheatmap)
+#### [Stellar Burgers:](https://github.com/maslomeister/react-burger)
+
+burger constructor with drag and drop, authorization, registration, authentication with jwt token, routing, animations and adaptive design for desktop/mobile.
+
+#### [Easy heatmap:](https://github.com/maslomeister/easyheatmap)
+
+interactive heatmap generator for qmk compatible keyboards
 
 <br>
 
@@ -69,7 +75,5 @@ A little bit about myself:
 </p>
 <br>
 </details>
-
-
 
 [![👀](https://api.visitorbadge.io/api/visitors?path=maslomeister&label=👀&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=maslomeister)
