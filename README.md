@@ -12,8 +12,6 @@ A little bit about myself:
 
 #### Graduate of Yandex Practicum React Developer course 🎓
 
-#### Constantly learning and i love it 🎉
-
 #### Fan of split keyboards, arduino and diy. 🛠
 
 </ul>
