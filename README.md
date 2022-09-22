@@ -34,63 +34,24 @@ interactive heatmap generator for qmk compatible keyboards
 
 ### 🔮 Stack:
 
-<picture>
-  <img src="https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20" alt="Typescript">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20" alt="Javascript">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20" alt="HTML5">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&color=1f1e34&label=%20" alt="CSS3">
-</picture>
+![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
+![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
+![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
+![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&color=1f1e34&label=%20)
 
-</br>
-</br>
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
+![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
+![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&color=1f1e34&label=%20)
+![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20)
+![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20)
 
-<picture>
-  <img src="https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20" alt="React">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20" alt="Redux/toolkit">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&color=1f1e34&label=%20" alt="Framer motion">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20" alt="Jest">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20" alt="Cypress">
-</picture>
-
-</br>
-</br>
-
-<picture>
-  <img src="https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20" alt="Nodejs">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20" alt="Eslint">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=stylelint&logo=stylelint&style=for-the-badge&color=1f1e34&label=%20" alt="Stylelint">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=prettier&logo=prettier&style=for-the-badge&color=1f1e34&label=%20" alt="Prettier">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20" alt="Docker">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20" alt="Figma">
-</picture>
-<picture>
-  <img src="https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20" alt="Git">
-</picture>
-
+![Nodejs](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
+![Eslint](https://img.shields.io/static/v1?message=eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20)
+![Prettier](https://img.shields.io/static/v1?message=prettier&logo=prettier&style=for-the-badge&color=1f1e34&label=%20)
+![Docker](https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
+![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
+![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
+![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1f1e34&label=%20)
 
 <br>
 
