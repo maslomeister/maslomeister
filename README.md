@@ -34,26 +34,42 @@ interactive heatmap generator for qmk compatible keyboards
 
 ### 🔮 Stack:
 
-![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
-![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
+#### Technologies
+
+![JavaScript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
+![TypeScript](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
+![Next.js](https://img.shields.io/static/v1?message=nextjs&logo=next.js&style=for-the-badge&color=1f1e34&label=%20)
+![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
+![Strapi](https://img.shields.io/static/v1?message=strapi&logo=strapi&style=for-the-badge&color=1f1e34&label=%20)
+![Axios](https://img.shields.io/static/v1?message=axios&logo=axios&style=for-the-badge&color=1f1e34&label=%20)
+
+
+#### Visuals
+
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&color=1f1e34&label=%20)
-
-![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
-![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
+![SCSS](https://img.shields.io/static/v1?message=scss&logo=scss&style=for-the-badge&color=1f1e34&label=%20)
+![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
 ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&color=1f1e34&label=%20)
-![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20)
-![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20)
 
-![Nodejs](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
+
+#### Testing and code styling
+![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20)
+![ReactTestingLibrary](https://img.shields.io/static/v1?message=reacttestinglibrary&logo=testinglibrary&style=for-the-badge&color=1f1e34&label=%20)
+![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20)
 ![Eslint](https://img.shields.io/static/v1?message=eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20)
 ![Prettier](https://img.shields.io/static/v1?message=prettier&logo=prettier&style=for-the-badge&color=1f1e34&label=%20)
-![Docker](https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
-![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
-![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
-![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1f1e34&label=%20)
+![Stylelint](https://img.shields.io/static/v1?message=stylelint&logo=stylelint&style=for-the-badge&color=1f1e34&label=%20)
 
-<br>
+
+#### Building tools
+
+![Nodejs](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
+![Vite](https://img.shields.io/static/v1?message=vite&logo=vite&style=for-the-badge&color=1f1e34&label=%20)
+![Docker](https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
+![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
+
 
 ### Contact me:
 
