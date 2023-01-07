@@ -39,7 +39,6 @@ interactive heatmap generator for qmk compatible keyboards
 ![JavaScript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
 ![TypeScript](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
 ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
-![Next.js](https://img.shields.io/static/v1?message=nextjs&logo=next.js&style=for-the-badge&color=1f1e34&label=%20)
 ![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
 ![Strapi](https://img.shields.io/static/v1?message=strapi&logo=strapi&style=for-the-badge&color=1f1e34&label=%20)
 ![Axios](https://img.shields.io/static/v1?message=axios&logo=axios&style=for-the-badge&color=1f1e34&label=%20)
@@ -67,6 +66,7 @@ interactive heatmap generator for qmk compatible keyboards
 
 ![Nodejs](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
 ![Vite](https://img.shields.io/static/v1?message=vite&logo=vite&style=for-the-badge&color=1f1e34&label=%20)
+![Next.js](https://img.shields.io/static/v1?message=nextjs&logo=next.js&style=for-the-badge&color=1f1e34&label=%20)
 ![Docker](https://img.shields.io/static/v1?message=docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
 ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
 
