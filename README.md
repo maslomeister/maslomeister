@@ -1,20 +1,14 @@
-### 🙋‍♂️ I'm Nikita Maslov - Frontend Developer
+### Nikita Maslov - Frontend Developer
 
-> Currently looking for internship or junior position, also open for collaboration
+> Open for part time work or collaboration
 
 <br>
 
-A little bit about myself:
-
-<ul>
+Hey there! 👋 I'm a frontend developer with over 1.5 years of experience, specializing in **React** and **TypeScript**. My programming journey spans 7 years, with a major focus on side projects and hobbies where I love experimenting with new instruments and technologies. I'm always eager to learn and grow, and I bring a friendly and collaborative approach to every project. Let's create amazing experiences together!
   
-#### Typescript💜
+  
+When I'm not immersed in the world of frontend development, you'll often find me indulging in my hobbies. I have a deep passion for hiking, exploring nature's beauty and tranquility. Additionally, I enjoy the art of DIYing, where I unleash my creativity and bring ideas to life. Another fascinating interest of mine is custom mechanical keyboards, where I tinker with physical objects and even dive into soldering projects. Exploring these diverse hobbies allows me to continuously challenge myself and find joy in the process of creation.
 
-#### Graduate of Yandex Practicum React Developer course 🎓
-
-#### Fan of split keyboards, arduino and diy. 🛠
-
-</ul>
 
 <br>
 
