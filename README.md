@@ -1,4 +1,4 @@
-### Nikita Maslov - Frontend Developer
+# Nikita Maslov - Frontend Developer
 
 > Open for part time work or collaboration
 
