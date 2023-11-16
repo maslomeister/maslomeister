@@ -1,6 +1,6 @@
 # Nikita Maslov - Frontend Developer
 
-> Open for part time work or collaboration
+> Available for part time work or interesting collaboration
 
 <br>
 
