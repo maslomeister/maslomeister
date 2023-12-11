@@ -32,6 +32,7 @@ interactive heatmap generator for qmk compatible keyboards
 
 ![JavaScript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
 ![TypeScript](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
+![Qwik](https://img.shields.io/static/v1?message=qwik&style=for-the-badge&color=1f1e34&label=%20&labelColor=AD7EF4)
 ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
 ![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&color=1f1e34&label=%20)
 ![Strapi](https://img.shields.io/static/v1?message=strapi&logo=strapi&style=for-the-badge&color=1f1e34&label=%20)
