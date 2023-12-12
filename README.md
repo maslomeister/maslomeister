@@ -83,7 +83,7 @@ interactive heatmap generator for qmk compatible keyboards
 <br>
 <p align = "center">
   <img width="54%" src = "https://github-readme-stats.vercel.app/api?username=maslomeister&layout=compact&show_icons=true&theme=radical">
-  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maslomeister&hide=c&layout=compact&theme=radical">
+  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maslomeister&hide=c,lua,glsl,makefile,dockerfile,shell,procfile&layout=compact&theme=radical">
 </p>
 <br>
 </details>
