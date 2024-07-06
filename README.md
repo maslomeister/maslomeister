@@ -27,7 +27,6 @@ Hey there! 👋 I'm a frontend developer with over 1.5 years of experience, spec
 ![Tailwind](https://img.shields.io/static/v1?message=tailwind&logo=tailwindcss&style=for-the-badge&color=1f1e34&label=%20)
 ![SCSS](https://img.shields.io/static/v1?message=scss&logo=scss&style=for-the-badge&color=1f1e34&label=%20)
 ![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
-![Adobe Illustrator](https://img.shields.io/static/v1?message=Adobe%20Illustrator&logo=adobeillustrator&style=for-the-badge&color=1f1e34&label=%20)
 ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&color=1f1e34&label=%20)
 
 
