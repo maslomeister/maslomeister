@@ -5,26 +5,6 @@
 <br>
 
 Hey there! 👋 I'm a frontend developer with over 1.5 years of experience, specializing in **React** and **TypeScript**. My programming journey spans 7 years, with a major focus on side projects and hobbies where I love experimenting with new instruments and technologies. I'm always eager to learn and grow, and I bring a friendly and collaborative approach to every project. Let's create amazing experiences together!
-  
-  
-When I'm not immersed in the world of frontend development, you'll often find me indulging in my hobbies. I have a deep passion for hiking, exploring nature's beauty and tranquility. Additionally, I enjoy the art of DIYing, where I unleash my creativity and bring ideas to life. Another fascinating interest of mine is custom mechanical keyboards, where I tinker with physical objects and even dive into soldering projects. Exploring these diverse hobbies allows me to continuously challenge myself and find joy in the process of creation.
-
-
-<br>
-
-### Projects:
-
-> Projects below are somewhat large and deserve special mention, but i also have few small projects in "pinned" section
-
-#### [Stellar Burgers:](https://github.com/maslomeister/react-burger)
-
-burger constructor with drag and drop, authorization, registration, authentication with jwt token, routing, animations and adaptive design for desktop/mobile.
-
-#### [Easy heatmap:](https://github.com/maslomeister/easyheatmap)
-
-interactive heatmap generator for qmk compatible keyboards
-
-<br>
 
 ### 🔮 Stack:
 
