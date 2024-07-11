@@ -4,7 +4,7 @@
 
 <br>
 
-Hey there! 👋 I'm a frontend developer with over 1.5 years of experience, specializing in **React** and **TypeScript**. My programming journey spans 7 years, with a major focus on side projects and hobbies where I love experimenting with new instruments and technologies. I'm always eager to learn and grow, and I bring a friendly and collaborative approach to every project. Let's create amazing experiences together!
+Hey there! 👋 I'm a frontend developer with over 2 years of experience, specializing in **React** and **TypeScript**. My programming journey spans 7 years, with a major focus on side projects and hobbies where I love experimenting with new instruments and technologies. I'm always eager to learn and grow, and I bring a friendly and collaborative approach to every project. Let's create amazing experiences together!
 
 ### 🔮 Stack:
 
